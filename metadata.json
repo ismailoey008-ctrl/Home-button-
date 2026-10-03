@@ -1,0 +1,6 @@
+{
+  "name": "Home Circle",
+  "description": "Tombol Home melayang berbentuk lingkaran yang ringan, responsif, dan transparansinya dapat disesuaikan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
